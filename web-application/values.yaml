@@ -3,7 +3,7 @@
 replicaCount: 1
 revisionHistoryLimit: 1
 image:
-  repository: web-application
+  repository: jihonee/web-application
   tag: latest
   pullPolicy: IfNotPresent
   resources:
