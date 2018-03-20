@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: "{{  .Chart.Name  }}"
-        image: jihonee/web-application:latest
+        image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
         imagePullPolicy: {{ .Values.image.pullPolicy }}
         readinessProbe:
           exec:
