@@ -2,11 +2,11 @@ apiVersion: v1
 entries:
   web-application:
   - apiVersion: v1
-    created: 2018-03-20T20:18:14.0045219+09:00
+    created: 2018-03-21T16:09:21.3272032+09:00
     description: A Helm chart for Kubernetes
-    digest: 555035832f17a6ef446d994b0686ee79b1cf105070d19234712b3c9d4fe0d38a
+    digest: 49bb098346b1718e128ced3d04c8aa748002cbe7fe69b2f50c688f411b2d7968
     name: web-application
     urls:
-    - https://JihonLab04.github.io/jihoncharts/web-application-1.0.0.tgz
+    - https://jihonlab04.github.io/jihoncharts/web-application-1.0.0.tgz
     version: 1.0.0
-generated: 2018-03-20T20:18:14.0015041+09:00
+generated: 2018-03-21T16:09:21.3221968+09:00
