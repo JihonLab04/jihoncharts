@@ -1,12 +1,48 @@
 apiVersion: v1
 entries:
+  microservice-schedule:
+  - apiVersion: v1
+    created: 2018-03-21T16:55:11.422473+09:00
+    description: A Helm chart for Kubernetes
+    digest: b6107cb1517cb64d2c7ecd46a5585572beb8ae3e046edd651899152f305ead59
+    name: microservice-schedule
+    urls:
+    - https://jihonlab04.github.io/jihoncharts/microservice-schedule-1.0.0.tgz
+    version: 1.0.0
+  microservice-session:
+  - apiVersion: v1
+    created: 2018-03-21T16:55:11.4234728+09:00
+    description: A Helm chart for Kubernetes
+    digest: ed65ab4fe821e87334662ab788beae68c3bd5676ef26b194b90238995e72b793
+    name: microservice-session
+    urls:
+    - https://jihonlab04.github.io/jihoncharts/microservice-session-1.0.0.tgz
+    version: 1.0.0
+  microservice-speaker:
+  - apiVersion: v1
+    created: 2018-03-21T16:55:11.4254716+09:00
+    description: A Helm chart for Kubernetes
+    digest: c2da41e576a7f7d5c1ebfbb91d27aad77122888f7908a6927f3407cb65c78028
+    name: microservice-speaker
+    urls:
+    - https://jihonlab04.github.io/jihoncharts/microservice-speaker-1.0.0.tgz
+    version: 1.0.0
+  microservice-vote:
+  - apiVersion: v1
+    created: 2018-03-21T16:55:11.4274703+09:00
+    description: A Helm chart for Kubernetes
+    digest: d360fb729d68a487e30795eab620b54a393240478d2a50f3eeb50a47bc5eee43
+    name: microservice-vote
+    urls:
+    - https://jihonlab04.github.io/jihoncharts/microservice-vote-1.0.0.tgz
+    version: 1.0.0
   web-application:
   - apiVersion: v1
-    created: 2018-03-21T16:09:21.3272032+09:00
+    created: 2018-03-21T16:55:11.4305099+09:00
     description: A Helm chart for Kubernetes
-    digest: 49bb098346b1718e128ced3d04c8aa748002cbe7fe69b2f50c688f411b2d7968
+    digest: a5f9060ddc530e3a96541e863dbc433230bb935e300e0af80953a79a481caa8a
     name: web-application
     urls:
     - https://jihonlab04.github.io/jihoncharts/web-application-1.0.0.tgz
     version: 1.0.0
-generated: 2018-03-21T16:09:21.3221968+09:00
+generated: 2018-03-21T16:55:11.4094703+09:00
